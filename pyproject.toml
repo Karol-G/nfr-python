@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nfr"
-version = "0.0.1"
-description = "Placeholder."
+version = "0.0.2"
+description = "Neutral Format Registry: how image formats and their edge cases must be interpreted, with evidence."
 readme = "README.md"
 requires-python = ">=3.10"
 
